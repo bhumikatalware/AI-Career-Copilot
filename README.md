@@ -1,3 +1,13 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=AI%20Career%20Copilot&fontSize=45&fontColor=ffffff&animation=fadeIn" /> </p>
+
+<h1 align="center">🚀 AI Career Copilot</h1>
+
+<p align="center"> <b>AI-Powered Career Guidance Platform for Students and Professionals</b> </p>
+
+<p align="center"> <img src="https://img.shields.io/github/stars/your-username/AI_CareerCopilot?style=for-the-badge" /> <img src="https://img.shields.io/github/forks/your-username/AI_CareerCopilot?style=for-the-badge" /> <img src="https://img.shields.io/github/license/your-username/AI_CareerCopilot?style=for-the-badge" /> <img src="https://img.shields.io/github/repo-size/your-username/AI_CareerCopilot?style=for-the-badge" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode" /> </p>
+
 # 🚀 AI Career Copilot
 
 <p align="center">
