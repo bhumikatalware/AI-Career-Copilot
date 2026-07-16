@@ -1,95 +1,183 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=AI%20Career%20Copilot&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h1 align="center">🚀 AI Career Copilot</h1>
+# 🚀 AI Career Copilot
 
 <p align="center">
-  <b>AI-Powered Career Guidance Platform for Students and Professionals</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/AI_CareerCopilot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/your-username/AI_CareerCopilot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/your-username/AI_CareerCopilot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/your-username/AI_CareerCopilot?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/SQLite-Database-green?style=for-the-badge&logo=sqlite" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode" />
+  <b>An AI-powered career guidance platform that helps users explore career paths, receive personalized recommendations, and track their career journey.</b>
 </p>
 
 ---
 
-## 🌟 Project Highlights
+## 📌 Project Overview
 
-🎯 AI-based Career Recommendation System
+AI Career Copilot is an intelligent web application designed to assist students and professionals in making informed career decisions. The platform leverages AI to provide personalized career recommendations based on user interests, skills, and goals.
 
-📊 Personalized Career Dashboard
-
-🔐 Secure User Authentication
-
-📚 Career History Tracking
-
-💡 Smart Guidance Based on Skills and Interests
-
-📱 Responsive and User-Friendly Interface
+The application offers a simple and interactive interface where users can register, log in, receive recommendations, and maintain their career history.
 
 ---
 
-## 📸 Project Preview
+## ✨ Features
 
-<p align="center">
-  <img src="screenshots/dashboard.png" width="800">
-</p>
+✅ User Authentication (Signup & Login)
 
----
+✅ Personalized Career Recommendations
 
-## 🏗️ System Architecture
+✅ Interactive Dashboard
 
-User → Login/Register → Enter Skills & Interests → AI Analysis Engine → Career Recommendations → Dashboard & History
+✅ Career History Tracking
 
----
+✅ Secure Database Management
 
-## 🛠️ Built With
+✅ Responsive and User-Friendly Interface
 
-* Python
-* Flask
-* HTML5
-* CSS3
-* SQLite
-* Jinja2
-* Git & GitHub
+✅ AI-Based Career Guidance System
 
 ---
 
-## 🚀 Getting Started
+## 🏗️ Project Structure
+
+```text
+AI_CareerCopilot/
+│
+├── app.py                 # Main Flask Application
+├── ai.py                  # AI Recommendation Logic
+├── db.py                  # Database Configuration
+├── models.py              # Database Models
+│
+├── templates/
+│   ├── base.html
+│   ├── dashboard.html
+│   ├── history.html
+│   ├── login.html
+│   └── signup.html
+│
+└── venv/
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose                |
+| ---------- | ---------------------- |
+| Python     | Backend Development    |
+| Flask      | Web Framework          |
+| HTML5      | Frontend Structure     |
+| CSS3       | User Interface Styling |
+| SQLite     | Database Management    |
+| Jinja2     | Dynamic Templates      |
+
+---
+
+## 🎯 Workflow
+
+```text
+User Registration
+        ↓
+User Login
+        ↓
+Input Skills & Interests
+        ↓
+AI Career Analysis
+        ↓
+Personalized Recommendations
+        ↓
+Dashboard & Career History
+```
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/AI_CareerCopilot.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
 cd AI_CareerCopilot
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Application
+
+```bash
 python app.py
 ```
 
 ---
 
-## 👩‍💻 Developed By
+## 🌟 Key Objectives
+
+* Help students discover suitable career paths
+* Provide AI-powered career recommendations
+* Improve career planning and decision-making
+* Maintain personalized career records
+* Deliver an easy-to-use career guidance platform
+
+---
+
+## 📊 Future Enhancements
+
+🔹 Resume Analysis using AI
+
+🔹 Skill Gap Detection
+
+🔹 Job Recommendation System
+
+🔹 Learning Resource Suggestions
+
+🔹 Interview Preparation Module
+
+🔹 Career Roadmap Generation
+
+---
+
+## 📸 Application Screens
+
+* Signup Page
+* Login Page
+* Dashboard
+* Career Recommendation Page
+* Career History Page
+
+> Add screenshots inside a `screenshots` folder and update this section with images.
+
+---
+
+## 👩‍💻 Author
 
 **Bhumika Talware**
 
 📍 Pune, Maharashtra, India
 
-💼 Aspiring Data Analyst | Python Developer
+💼 Aspiring Data Analyst & Software Developer
 
-🌟 Passionate about AI, Data Analytics, and Problem Solving
+📧 Add Your Email
+
+🔗 Add LinkedIn Profile
 
 ---
 
-<p align="center">
-⭐ If you like this project, please give it a star on GitHub ⭐
-</p>
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 <p align="center">
-Made with ❤️ by Bhumika Talware
+  <b>🚀 Empowering Careers Through Artificial Intelligence 🚀</b>
 </p>
+
