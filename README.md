@@ -8,20 +8,6 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode" /> </p>
 
-# 🚀 AI Career Copilot
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/SQLite-Database-green?style=for-the-badge&logo=sqlite" />
-</p>
-
-<p align="center">
-  <b>An AI-powered career guidance platform that helps users explore career paths, receive personalized recommendations, and track their career journey.</b>
-</p>
-
 ---
 
 ## 📌 Project Overview
