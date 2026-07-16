@@ -163,9 +163,9 @@ python app.py
 
 💼 Aspiring Data Analyst & Software Developer
 
-📧 Add Your Email
+📧 bhumikatalware70@gmail.com
 
-🔗 Add LinkedIn Profile
+🔗 (https://www.linkedin.com/in/bhumika-talware-1a68493a0/)
 
 ---
 
